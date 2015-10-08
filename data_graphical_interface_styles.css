@@ -1,0 +1,48 @@
+body{
+    background: #f6f6e4;
+}
+
+#header {
+    background: #ff783e;
+    text-align: center;
+    color: #ebebeb;
+    height: 100px;
+    width: 100%;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 175%;
+    padding: 20px;
+}
+
+#chart_div {
+    color: #542916;
+    padding: 2%;
+    height: 400px;
+    width: 550px;
+    border: rgba(0, 0, 0, 1);
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.chart_div {
+    color: #542916;
+    padding: 2%;
+    height: 400px;
+    width: 550px;
+    margin: 20px 20px 0 20px;
+    background: #fff;
+    border: rgba(0, 0, 0, 1);
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+#Description {
+    margin: 0 20px 20px 20px;
+    background-color: #121C30;
+    padding: 2%;
+    width: 550px;
+    border: rgba(0, 0, 0, 1);
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 125%;
+    color: #ffffff;
+}
